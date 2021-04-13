@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "CifarResNet_int_u50.xmodel",
+    "kernel": [
+        "subgraph_CifarResNet__CifarResNet_508"
+    ],
+    "target": "DPUCAHX8H_ISA2_ELP2"
+}
